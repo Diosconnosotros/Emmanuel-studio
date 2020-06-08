@@ -1,0 +1,144 @@
+*{
+	font-size: 14px;
+	margin :0;
+	padding:0;
+}
+h2,h2,h3{
+	font-family: Arial,verdana,sans-serif;
+	font-size  : 20px;
+	font-weight: bold;
+	color      : black;
+	
+}
+body{
+	font-family:verdana,Arial,sans-serif
+}
+header, .main, footer{
+	width    :800%;
+    max-width:400px;
+	margin   : 20px auto;
+
+}
+
+
+
+header nav{
+	font-weight: bold;
+	font-family: Arial,verdana,sans-serif;
+	overflow  :hidden; 
+}
+header nav ul{
+	list-style:none;
+}
+header nav li{
+	float: left;
+}
+header nav ul li a{
+	padding        : 10px 20px;
+	display        : block;
+	color          :#E040FB;
+	text-decoration: none;
+}
+header nav ul li a:hover{
+	background: #75ACEC;
+
+}
+.main .articles{
+	width       :90%;
+	margin-right:1.5%;
+	float       : middle;
+}
+.main .articles article{
+	padding      :20px;
+	background   : #18FFFF;
+	margin-bottom:20PX;
+	text-align   : justify;
+	border:4px  #D50000;
+    
+
+}
+aside{
+	width     :90%;
+	background:white;
+	float     : middle;
+	padding   : 50px;
+	box-sizing:border-box;
+	text-align: justify;
+    border-radius: 2.5em;
+
+    }
+footer{
+	font-family:Aral,verdana,sans-serif;
+	font-weight:normal;
+	color     : #fff;
+	clear     : both;
+	padding   : 12px 2px;
+	text-align: center;
+    border-radius: 1.5em;
+}    
+body{
+	background-color: black;
+	font-family: sans-serif;
+		}
+	.contenedor{
+		background-color: white;
+		box-sizing: border-box;
+		border-radius: 5px;
+		margin: 10px auto;
+		padding: 500%;
+		height: 400px%
+		width :90%;
+	}	
+	.boton{
+		color: white;
+		font-weight: bold;
+		display: inline-block;
+		background-color: green;
+		line-height: 2.0;
+		padding: 0 0.8em;
+		text-decoration: none;
+	}
+	.verde{
+		background-color: green;
+		border-radius: 1.25em;
+	}
+	.verde:hover {
+		color:black;
+		background-color: brown;
+	}
+	.azul{
+		background-color: blue;
+	}
+	.azul:hover{
+		color:green;
+		background-color: yellow;
+	}
+	.verde{
+		background-color: green;
+	}
+	.verde:hover{
+		color:orange;
+		background-color: turquoise;
+	}
+	.azul{
+		background-color: blue;
+		border-radius: 1.25em;
+	}
+	.azul:hover{
+		color:black;
+		background-color: red;
+	}
+	.verde{
+		background-color: green;
+		border-radius: 1.25em;
+	}
+	.verde:hover{
+		color:yellow;
+		background-color: white;
+	}
+	.azul{
+		background-color: blue;
+	}
+	.azul:hover{
+		color:blue;
+		background-color: black;

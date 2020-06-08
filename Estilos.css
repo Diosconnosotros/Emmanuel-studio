@@ -1,0 +1,124 @@
+*{
+	font-size: 14px;
+	margin :0;
+	padding:0;
+}
+h2,h2,h3{
+	font-family: Arial,verdana,sans-serif;
+	font-size  : 20px;
+	font-weight: bold;
+	color      : #2E282D;
+}
+body{
+	font-family:verdana,Arial,sans-serif
+}
+header, .main, footer{
+	width    :90%;
+	max-width:400px;
+	margin   : 20px auto;
+
+}
+header nav{
+	font-weight: bold;
+	font-family: Arial,verdana,sans-serif;
+	background:;
+	overflow  :hidden; 
+}
+header nav ul{
+	list-style:none;
+}
+header nav li{
+	float: left;
+}
+header nav ul li a{
+	padding        : 10px 20px;
+	display        : block;
+	color          :#7C4DFF;
+	text-decoration: none;
+}
+header nav ul li a:hover{
+	background: #75ACEC;
+
+}
+.main .articles{
+	width       :68.5%;
+	margin-right:1.5%;
+	float       : left;
+}
+
+.derecha{
+    width: 63%;
+    background: teal;
+    border-style: double;
+}
+
+
+
+body{
+	background-color: white;
+	font-family: sans-serif;
+		}
+	.contenedor{
+		background-color: white;
+		box-sizing: border-box;
+		border-radius: 50px;
+		margin: 50px auto;
+		padding: 500%;
+		height: 400px%
+		width :100%;
+	}	
+	.boton{
+		color: white;
+		font-weight: bold;
+		display: inline-block;
+		background-color: green;
+        line-height: 2.0;
+		padding: 0 0.8em;
+		text-decoration: none;
+	}
+	.verde{
+		background-color: green;
+		border-radius: 1.25em;
+	}
+	.verde:hover {
+		color:black;
+		background-color: brown;
+	}
+	.azul{
+		background-color: blue;
+	}
+	.azul:hover{
+		color:green;
+		background-color: yellow;
+	}
+	.verde{
+		background-color: green;
+	}
+	.verde:hover{
+		color:orange;
+		background-color: turquoise;
+	}
+	.azul{
+		background-color: blue;
+		border-radius: 1.25em;
+	}
+	.azul:hover{
+		color:black;
+		background-color: red;
+	}
+	.verde{
+		background-color: green;
+		border-radius: 1.25em;
+	}
+	.verde:hover{
+		color:yellow;
+		background-color: white;
+	}
+	.azul{
+		background-color: blue;
+	}
+	.azul:hover{
+		color:blue;
+		background-color: black;
+        }
+
